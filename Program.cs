@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Bienvenue dans les matrices !");
             int[,] Matrice1;
             int[,] Matrice2;
             int[,] Matrice3;
