@@ -1,0 +1,15 @@
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5T24_LoukaConstant_applicationMatrices\5T24_LoukaConstant_appliMatrices\bin\Debug\net8.0\5T24_LoukaConstant_appliMatrices.exe
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5T24_LoukaConstant_applicationMatrices\5T24_LoukaConstant_appliMatrices\bin\Debug\net8.0\5T24_LoukaConstant_appliMatrices.deps.json
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5T24_LoukaConstant_applicationMatrices\5T24_LoukaConstant_appliMatrices\bin\Debug\net8.0\5T24_LoukaConstant_appliMatrices.runtimeconfig.json
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5T24_LoukaConstant_applicationMatrices\5T24_LoukaConstant_appliMatrices\bin\Debug\net8.0\5T24_LoukaConstant_appliMatrices.dll
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5T24_LoukaConstant_applicationMatrices\5T24_LoukaConstant_appliMatrices\bin\Debug\net8.0\5T24_LoukaConstant_appliMatrices.pdb
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5T24_LoukaConstant_applicationMatrices\5T24_LoukaConstant_appliMatrices\obj\Debug\net8.0\5T24_LoukaConstant_appliMatrices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5T24_LoukaConstant_applicationMatrices\5T24_LoukaConstant_appliMatrices\obj\Debug\net8.0\5T24_LoukaConstant_appliMatrices.AssemblyInfoInputs.cache
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5T24_LoukaConstant_applicationMatrices\5T24_LoukaConstant_appliMatrices\obj\Debug\net8.0\5T24_LoukaConstant_appliMatrices.AssemblyInfo.cs
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5T24_LoukaConstant_applicationMatrices\5T24_LoukaConstant_appliMatrices\obj\Debug\net8.0\5T24_LoukaConstant_appliMatrices.csproj.CoreCompileInputs.cache
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5T24_LoukaConstant_applicationMatrices\5T24_LoukaConstant_appliMatrices\obj\Debug\net8.0\5T24_LoukaConstant_appliMatrices.sourcelink.json
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5T24_LoukaConstant_applicationMatrices\5T24_LoukaConstant_appliMatrices\obj\Debug\net8.0\5T24_LoukaConstant_appliMatrices.dll
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5T24_LoukaConstant_applicationMatrices\5T24_LoukaConstant_appliMatrices\obj\Debug\net8.0\refint\5T24_LoukaConstant_appliMatrices.dll
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5T24_LoukaConstant_applicationMatrices\5T24_LoukaConstant_appliMatrices\obj\Debug\net8.0\5T24_LoukaConstant_appliMatrices.pdb
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5T24_LoukaConstant_applicationMatrices\5T24_LoukaConstant_appliMatrices\obj\Debug\net8.0\5T24_LoukaConstant_appliMatrices.genruntimeconfig.cache
+C:\Users\louka\OneDrive\Documents\Informatique\C#\5T24_LoukaConstant_applicationMatrices\5T24_LoukaConstant_appliMatrices\obj\Debug\net8.0\ref\5T24_LoukaConstant_appliMatrices.dll
